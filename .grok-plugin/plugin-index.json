@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "accountsos": {
-      "sha": "4a56a6cf7a31f0b46f804b324dbf4d68c2074e06",
-      "version": "1.2.0",
+      "sha": "96f421622b81d515fade734f9d635e8067ae182e",
+      "version": "1.3.2",
       "components": {
         "commands": [
           {
