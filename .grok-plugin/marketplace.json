@@ -377,7 +377,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/thriveventurelabs/accountsos-agent-plugin.git",
-        "sha": "588956b7631a6c46a9588265ab2a9cf2df463d0b"
+        "sha": "cea7b03927f226eb9db250668a655f670c3c6fc7"
       },
       "homepage": "https://accounts-os.com",
       "keywords": ["accountsos", "accounts-os", "accountsos vat", "finn accountant"],
